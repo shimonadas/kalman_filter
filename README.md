@@ -51,3 +51,15 @@ Pairs trading is a market-neutral strategy where two correlated assets are trade
 Before running the project, install the required libraries:
 ```bash
 pip install numpy pandas yfinance statsmodels pykalman matplotlib
+
+Pairs-Trading-Kalman-Filters/
+│── data/                   # Historical stock data
+│── notebooks/              # Jupyter notebooks for testing
+│── src/
+│   ├── kalman_filter.py    # Implements the Kalman filter
+│   ├── trading_strategy.py # Generates buy/sell signals
+│   ├── backtest.py         # Evaluates performance
+│── config.py               # User settings (tickers, thresholds)
+│── README.md               # Project documentation
+│── requirements.txt        # Dependencies
+
