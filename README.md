@@ -1,20 +1,18 @@
 <!-- PROJECT TITLE -->
 <!-- PROJECT SHIELD -->
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
-# 📈 Pairs Trading with Kalman Filters
+# Pairs Trading with Kalman Filters
 
-### A dynamic statistical arbitrage strategy using real-time hedge ratio estimation.
+### A dynamic statistical arbitrage strategy which uses real-time hedge ratio estimation.
 
- [Explore the Docs »](https://github.com/yourusername/Pairs-Trading-Kalman-Filters)  
- [Report a Bug](https://github.com/yourusername/Pairs-Trading-Kalman-Filters/issues)  
- [Request a Feature](https://github.com/yourusername/Pairs-Trading-Kalman-Filters/issues) 
+#### [Explore the Docs »](https://github.com/yourusername/Pairs-Trading-Kalman-Filters)  
+#### [Report a Bug](https://github.com/yourusername/Pairs-Trading-Kalman-Filters/issues)  
+#### [Request a Feature](https://github.com/yourusername/Pairs-Trading-Kalman-Filters/issues) 
 ---
 
 ## About The Project
 
-Pairs trading is a market-neutral strategy where two correlated assets are traded based on their price spread. Instead of using a **fixed hedge ratio**, this project utilizes a **Kalman filter** to dynamically adjust the hedge ratio over time. This allows for **more accurate and adaptive trading decisions**.
+Pairs trading is a market-neutral strategy where two correlated assets are traded based on their price spread. Instead of using a **fixed hedge ratio**, this project utilizes a **Kalman filter** in order to dynamically adjust the hedge ratio over time. This allows for **more accurate and adaptive trading decisions**.
 
 ### **Why Use a Kalman Filter?**
 - Traditional pairs trading assumes a fixed hedge ratio (e.g., Ordinary Least Squares regression).
@@ -24,7 +22,7 @@ Pairs trading is a market-neutral strategy where two correlated assets are trade
 ---
 
 ## **How It Works**
-1. **Data Collection**: Fetches stock price data from sources like Yahoo Finance.
+1. **Data Collection**: Fetches stock price data from Bloomberg.
 2. **Preprocessing**: Cleans data, removes missing values, and normalizes prices.
 3. **Dynamic Hedge Ratio Estimation**: Uses the Kalman filter to adjust hedge ratios in real-time.
 4. **Trading Signals**:
