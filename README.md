@@ -1,12 +1,15 @@
 <!-- PROJECT TITLE -->
-# Pairs Trading with Kalman Filters
-
-## A dynamic statistical arbitrage strategy using real-time hedge ratio estimation.
-
+<!-- PROJECT SHIELD -->
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Pairs trading is a market-neutral strategy where two correlated assets are traded based on their price spread. Instead of using a **fixed hedge ratio**, this project utilizes a **Kalman filter** to dynamically adjust the hedge ratio over time. This allows for **more accurate and adaptive trading decisions**
+# 📈 Pairs Trading with Kalman Filters
+
+### A dynamic statistical arbitrage strategy using real-time hedge ratio estimation.
+
+ [Explore the Docs »](https://github.com/yourusername/Pairs-Trading-Kalman-Filters)  
+ [Report a Bug](https://github.com/yourusername/Pairs-Trading-Kalman-Filters/issues)  
+ [Request a Feature](https://github.com/yourusername/Pairs-Trading-Kalman-Filters/issues) 
 ---
 
 ## About The Project
