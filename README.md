@@ -45,10 +45,10 @@ pip install numpy pandas yfinance statsmodels pykalman matplotlib
 ## Main Results & Visualisations
 
 ### Kalman Spread with Trading Signals
-![Kalman Spread](results/kalman_spread.png)
+![Kalman Spread](https://github.com/shimonadas/kalman_filter/blob/develop/results/kalman_spread.png?raw=true)
 
 ### Sharpe Ratio Heatmap
-![Sharpe Ratio Heatmap](results/sharpe_heatmap.png)
+![Sharpe Ratio Heatmap](https://github.com/shimonadas/kalman_filter/blob/develop/results/sharpe_heatmap.png?raw=true)
 
 ## License
 
