@@ -42,6 +42,14 @@ Install the required libraries:
 pip install numpy pandas yfinance statsmodels pykalman matplotlib
 ```
 
+## Main Results & Visualisations
+
+### Kalman Spread with Trading Signals
+![Kalman Spread](results/kalman_spread.png)
+
+### Sharpe Ratio Heatmap
+![Sharpe Ratio Heatmap](results/sharpe_heatmap.png)
+
 ## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
