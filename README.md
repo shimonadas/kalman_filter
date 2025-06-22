@@ -29,7 +29,6 @@ Pairs trading is a market-neutral strategy where two correlated assets are trade
    - If the spread is **too wide**, we **bet on it returning to normal**.
    - If the spread is **too narrow**, we **exit the trade**.
 5. **Backtesting**: Simulates past trades to evaluate strategy performance.
-6. **Deployment**: Option to integrate with **Alpaca API** for live trading.
 
 ---
 
