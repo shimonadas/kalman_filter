@@ -5,9 +5,9 @@
 
 ### A dynamic statistical arbitrage strategy which uses real-time hedge ratio estimation.
 
-#### [Explore the Docs »](https://github.com/shimonadas/Pairs-Trading-Kalman-Filters)  
-#### [Report a Bug](https://github.com/shimonadas/Pairs-Trading-Kalman-Filters/issues)  
-#### [Request a Feature](https://github.com/shimonadas/Pairs-Trading-Kalman-Filters/issues) 
+#### [Explore the Docs »](https://github.com/shimona-das/Pairs-Trading-Kalman-Filters)  
+#### [Report a Bug](https://github.com/shimona-das/Pairs-Trading-Kalman-Filters/issues)  
+#### [Request a Feature](https://github.com/shimona-das/Pairs-Trading-Kalman-Filters/issues) 
 ---
 
 ## About The Project
