@@ -8,6 +8,7 @@
 #### [Explore the Docs »](https://github.com/shimonadas/kalman_filter)  
 #### [Report a Bug](https://github.com/shimonadas/kalman_filter/issues/new?labels=bug)  
 #### [Request a Feature](https://github.com/shimonadas/kalman_filter/issues/new?labels=enhancement)
+
 ---
 
 ## About The Project
@@ -36,8 +37,10 @@ Pairs trading is a market-neutral strategy where two correlated assets are trade
 
 ### Prerequisites
 Install the required libraries:
+
 ```bash
 pip install numpy pandas yfinance statsmodels pykalman matplotlib
+```
 
 ## License
 
