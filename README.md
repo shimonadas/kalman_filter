@@ -32,10 +32,13 @@ Pairs trading is a market-neutral strategy where two correlated assets are trade
 
 ---
 
-## 🔧 Installation & Usage
+## Installation & Usage
 
 ### Prerequisites
 Install the required libraries:
 ```bash
 pip install numpy pandas yfinance statsmodels pykalman matplotlib
 
+## License
+
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
