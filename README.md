@@ -5,9 +5,9 @@
 
 ### A dynamic statistical arbitrage strategy which uses real-time hedge ratio estimation.
 
-#### [Explore the Docs »](https://github.com/shimona-das/Pairs-Trading-Kalman-Filters)  
-#### [Report a Bug](https://github.com/shimona-das/Pairs-Trading-Kalman-Filters/issues)  
-#### [Request a Feature](https://github.com/shimona-das/Pairs-Trading-Kalman-Filters/issues) 
+#### [Explore the Docs »](https://github.com/shimonadas/kalman_filter)  
+#### [Report a Bug](https://github.com/shimonadas/kalman_filter/issues/new?labels=bug)  
+#### [Request a Feature](https://github.com/shimonadas/kalman_filter/issues/new?labels=enhancement)
 ---
 
 ## About The Project
@@ -32,20 +32,10 @@ Pairs trading is a market-neutral strategy where two correlated assets are trade
 
 ---
 
-## **Getting Started**
-### **Prerequisites**
-Before running the project, install the required libraries:
+## 🔧 Installation & Usage
+
+### Prerequisites
+Install the required libraries:
 ```bash
 pip install numpy pandas yfinance statsmodels pykalman matplotlib
-
-Pairs-Trading-Kalman-Filters/
-│── data/                   # Historical stock data
-│── notebooks/              # Jupyter notebooks for testing
-│── src/
-│   ├── kalman_filter.py    # Implements the Kalman filter
-│   ├── trading_strategy.py # Generates buy/sell signals
-│   ├── backtest.py         # Evaluates performance
-│── config.py               # User settings (tickers, thresholds)
-│── README.md               # Project documentation
-│── requirements.txt        # Dependencies
 
